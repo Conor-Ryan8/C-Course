@@ -1,0 +1,9 @@
+C:\Users\The PC\source\repos\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+C:\Users\The PC\source\repos\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+C:\Users\The PC\source\repos\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\The PC\source\repos\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojAssemblyReference.cache
+C:\Users\The PC\source\repos\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.Properties.Resources.resources
+C:\Users\The PC\source\repos\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.GenerateResource.cache
+C:\Users\The PC\source\repos\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\The PC\source\repos\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+C:\Users\The PC\source\repos\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
